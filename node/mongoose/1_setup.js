@@ -17,4 +17,3 @@ const Songe = mongoose.model('keki',kekiSchema)
 
 //  create new copy 
 const keki = new Songe({name:kike,price:12})
-const 
